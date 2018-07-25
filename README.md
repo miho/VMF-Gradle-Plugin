@@ -10,7 +10,7 @@ plugins {
 }
 ```
 
-and configure VMF:
+and optionally configure VMF:
 
 ```gradle
 vmf {
