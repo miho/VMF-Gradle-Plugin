@@ -14,6 +14,6 @@ and optionally configure VMF:
 
 ```gradle
 vmf {
-    version = '0.1' // use desired VMF version
+    version = '0.1.1' // use desired VMF version
 }
 ```
